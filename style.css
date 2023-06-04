@@ -1,0 +1,24 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 182px;
+}
+.container-navegacao{
+    display: flex;
+    gap: 20px;
+}
+.navegacao-interna{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+.navegacao-interna > li {
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+color: #A7A7A7;
+}
+
+.navegacao-externa{
+    display: flex;
+}
