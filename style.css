@@ -44,7 +44,8 @@ img{
     font-weight: 700;
     font-size: 58px;
     line-height: 70px;
-    color: #D9D9D9 ;
+    color: #4d3951 ;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .meu-nome {
  background-image: linear-gradient( 
@@ -55,6 +56,19 @@ img{
 -webkit-background-clip: text;
 color: transparent;
 }
+
+.logo01{
+    font-family: Arial, Helvetica, sans-serif;
+    color: transparent;
+    background-image: linear-gradient( 
+    #530053,
+    #ef1899
+    );
+ background-clip: text;
+-webkit-background-clip: text;
+
+}
+
 .foto-gradient{   
     width: 280px;
     height: 280px;
@@ -69,8 +83,4 @@ border: 10px solid transparent;
 background-clip: content-box, border-box;
 background-origin: border-box;
 background-size: cover;
-}
-
-body {
-    background-color: black;
 }
