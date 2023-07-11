@@ -84,3 +84,15 @@ background-clip: content-box, border-box;
 background-origin: border-box;
 background-size: cover;
 }
+
+body{
+    text-align: center;
+}
+
+h1, p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4d3951;
+    text-align: center;
+    text-align: center;
+}
+
