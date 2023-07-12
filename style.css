@@ -91,8 +91,23 @@ body{
 
 h1, p{
     font-family: Arial, Helvetica, sans-serif;
-    color: #4d3951;
+    color: #530053;
     text-align: center;
     text-align: center;
 }
+
+h2{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #530053;
+}
+
+.container-imagens {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        margin: 40px auto;
+        gap: 100px;
+        max-width: 1224px;
+      }
 
